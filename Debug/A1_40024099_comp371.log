@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\johnny chiu\source\repos\a1_40024099_comp371\a1_40024099_comp371\main.cpp(188): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\johnny chiu\source\repos\a1_40024099_comp371\a1_40024099_comp371\main.cpp(193): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\johnny chiu\source\repos\a1_40024099_comp371\a1_40024099_comp371\main.cpp(199): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\johnny chiu\source\repos\a1_40024099_comp371\a1_40024099_comp371\main.cpp(204): warning C4553: '==': operator has no effect; did you intend '='?
+  A1_40024099_comp371.vcxproj -> C:\Users\Johnny Chiu\source\repos\A1_40024099_comp371\Debug\A1_40024099_comp371.exe
